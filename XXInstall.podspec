@@ -27,6 +27,8 @@ spec.license      = "MIT"
 
 spec.author             = { "zhaoyu" => "zdy_ios@163.com" }
 
+spec.source       = { :git => "https://github.com/zhaoy131/XXInstall.git", :tag => "#{spec.version}" }
+
 spec.ios.deployment_target = "9.0"
 
 spec.ios.vendored_frameworks = 'XXInstall/XXInstall.framework'
