@@ -1,0 +1,4 @@
+framework module XXInstall {
+  header "XXInstall-Swift.h"
+  requires objc
+}
