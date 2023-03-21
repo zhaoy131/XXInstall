@@ -251,11 +251,16 @@ using UInt = size_t;
 #endif
 
 #if defined(__OBJC__)
+@class NSString;
 
 SWIFT_CLASS("_TtC9XXInstall16XXInstallManager")
 @interface XXInstallManager : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) XXInstallManager * _Nonnull instance;)
++ (XXInstallManager * _Nonnull)instance SWIFT_WARN_UNUSED_RESULT;
+@property (nonatomic) BOOL enableLog;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (void)startConnectWithHost:(NSString * _Nonnull)host;
 @end
 
 
@@ -272,6 +277,6 @@ SWIFT_CLASS("_TtC9XXInstall16XXInstallManager")
 #pragma clang diagnostic pop
 #endif
 
-#else
-#error unsupported Swift architecture
-#endif
+//#else
+//#error unsupported Swift architecture
+//#endif

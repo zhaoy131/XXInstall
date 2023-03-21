@@ -8,10 +8,10 @@
 import Foundation
 import Starscream
 
-public class XXInstallManager: NSObject {
+@objc public class XXInstallManager: NSObject {
     
     // 单例
-    public static let instance = XXInstallManager()
+    @objc public static let instance = XXInstallManager()
     
     var socket: WebSocket!
     
@@ -45,7 +45,7 @@ public class XXInstallManager: NSObject {
     }()
     
     // 是否打印
-    public var enableLog = false
+    @objc public var enableLog = false
     
     private override init() {
         super.init()
@@ -56,7 +56,7 @@ public class XXInstallManager: NSObject {
         destroyHeartbeatTimer()
     }
     
-    public func startConnect(host: String){
+    @objc public func startConnect(host: String){
         
         let xxBundleId = Bundle.main.bundleIdentifier ?? ""
         //        log("xxBundleId--\(xxBundleId)")

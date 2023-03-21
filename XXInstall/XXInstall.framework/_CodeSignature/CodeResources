@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/XXInstall-Swift.h</key>
 		<data>
-		xCPl3TkNSXG5471ef09mUS/b6uI=
+		1RpD7KjoMrOrDzd2LLImpth3ODM=
 		</data>
 		<key>Headers/XXInstallManager.swift</key>
 		<data>
-		IiU+0kz+biClRjo1iLY5MAGBPek=
+		di/cD5IAu/jslDM4Y2Ry3kHOHEs=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/XXInstall.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		Gbs0ERl2Cn9aiiqXhISlAh+Poi4=
+		etCfvzP+4GGwluN4TdUU+Hv4phE=
 		</data>
 		<key>Modules/XXInstall.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/XXInstall.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		BE2GKkPbeixxmwQQt0rVqYh9KUI=
+		KvxMt7mtx3W/+HzYDe/XVa4WfmQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,33 +43,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xCPl3TkNSXG5471ef09mUS/b6uI=
+			1RpD7KjoMrOrDzd2LLImpth3ODM=
 			</data>
 			<key>hash2</key>
 			<data>
-			WNM98M6qIbWVMe7rRCurEcFDf1FYAwSkhK16O+z/BXE=
+			2MkyDzDQgew8PlYpLnzmPp4d+HHdkFOIujcQ/v6FU5s=
 			</data>
 		</dict>
 		<key>Headers/XXInstallManager.swift</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IiU+0kz+biClRjo1iLY5MAGBPek=
+			di/cD5IAu/jslDM4Y2Ry3kHOHEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			KpSRSDp0zKHjUM3RiuRwsikzbXVKZT7msXOWSFSH4IU=
+			fgQU6WhoZaa5boNpssY/JnAo4wauhIi/RMsSH3kLDxM=
 			</data>
 		</dict>
 		<key>Modules/XXInstall.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gbs0ERl2Cn9aiiqXhISlAh+Poi4=
+			etCfvzP+4GGwluN4TdUU+Hv4phE=
 			</data>
 			<key>hash2</key>
 			<data>
-			FW6GbSK87rUe1sUapr1gg+hSbTb9hd5JF7W6nd/eZig=
+			zRqjAelqHHWdhy2mvt/4hyANGeAVYXKqF4VHKAAv6bI=
 			</data>
 		</dict>
 		<key>Modules/XXInstall.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -98,11 +98,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BE2GKkPbeixxmwQQt0rVqYh9KUI=
+			KvxMt7mtx3W/+HzYDe/XVa4WfmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			apMg4eEOubLN/qkk4ERNI2BenaMwcEDTuUH5zW4xnss=
+			8rDt05EBWxqs8xSx+BkEGsX+9PDgHDdL8VvwbG7IVh8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

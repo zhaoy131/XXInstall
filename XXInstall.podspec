@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
 #
 
 spec.name         = "XXInstall"
-spec.version      = "0.0.1"
+spec.version      = "0.0.2"
 spec.summary      = "统计SDK"
 
 spec.description  = "该SDK作为统计渠道使用"
